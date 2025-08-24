@@ -1,2 +1,0 @@
-# PabloScripterPro.github.io
-Obfuscator
